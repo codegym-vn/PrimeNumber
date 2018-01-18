@@ -1,0 +1,7 @@
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\KTSNT\KTSNT\bin\Debug\KTSNT.exe.config
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\KTSNT\KTSNT\bin\Debug\KTSNT.exe
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\KTSNT\KTSNT\bin\Debug\KTSNT.pdb
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\KTSNT\KTSNT\obj\Debug\KTSNT.csprojResolveAssemblyReference.cache
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\KTSNT\KTSNT\obj\Debug\KTSNT.csproj.CoreCompileInputs.cache
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\KTSNT\KTSNT\obj\Debug\KTSNT.exe
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\KTSNT\KTSNT\obj\Debug\KTSNT.pdb
