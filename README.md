@@ -1,2 +1,2 @@
 # PrimeNumber
-Ứng dụng kiểm tra số nguyên tố
+Ứng dụng kiểm tra số nguyên tố 2
